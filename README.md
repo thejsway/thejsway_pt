@@ -8,7 +8,7 @@ Esse repositório contém os arquivos do livro **The JavaScript Way** traduzidos
 
 Para ter acesso aos arquivos, acesse [manuscritos](manuscript/) ou [acesse o website](https://thejsway.net).
 
-Esse livro também está disponível no [Leanpub](https://leanpub.com/thejsway) (PDF, EPUB), [Amazon](https://www.amazon.com/dp/295644462X) (Kindle, brochura) e [Educative](https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch) (interactive course).
+Esse livro também está disponível no [Leanpub](https://leanpub.com/thejsway) (PDF, EPUB), [Amazon](https://www.amazon.com/dp/295644462X) (Kindle, brochura) e [Educative](https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch) (curso interativo).
 
 ## Licença
 
