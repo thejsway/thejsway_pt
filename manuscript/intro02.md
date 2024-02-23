@@ -12,12 +12,12 @@ Desde sua invenção na década de 1950, **computadores** têm revolucionado nos
 
     Vamos usar o termo "computador" no seu significado mais amplo: uma máquina que pode processar operações lógicas e aritméticas. Pode ser desktop ou notebook(PC, Mac), um servidor ou um dispositivo móvel como um tablet ou um smartphone.
 
-Contudo, um computador só pode executar uma série de operações simples quando instruído a fazê-lo. Normalmente, eles não têm habilidade de aprender, julgar ou improvisar. Eles simplesmente fazem o que o que lhes mandam fazer. Seu valor está na velocidade com que eles conseguem armazenar e processar grandes quantidades de informação.
+Contudo, um computador só pode executar uma série de operações simples quando instruído a fazê-lo. Normalmente, eles não têm a habilidade de aprender, julgar ou improvisar. Eles simplesmente fazem o que lhes mandam fazer. Seu valor está na velocidade com que eles conseguem armazenar e processar grandes quantidades de informação.
 
 Um computador geralmente requer intervenção humana. É aí que entram os programadores e desenvolvedores! Eles escrevem programas que resultam em instruções para um computador.
 
 
-Um **programa de computador** (também chamado de aplicativo ou software) é geralmente composto de um ou mais arquivos de texto contendo comandos em forma de código. É por isso que desenvolvedores também são chamados de codadores.
+Um **programa de computador** (também chamado de aplicativo ou software) é geralmente composto de um ou mais arquivos de texto contendo comandos em forma de código. É por isso que os desenvolvedores também são chamados de codadores.
 
 Uma **linguagem de programação** é uma forma de dar ordens a um computador. É um pouco como uma linguagem humana! Cada linguagem de programação tem um vocabulário(palavras-chave, cada uma com uma função específica) e gramática(regras que definem como escrever programas na língua em questão).
 
@@ -83,11 +83,11 @@ Com algumas linguagens, a tradução para código assembly acontece linha por li
 
 Outra possibilidade é ler e procurar por erros ao longo de todo código fonte antes da execução. Se nenhum erro for detectado, é gerado um executável direcionado a uma plataforma de hardware específica. A etapa intermediária é chamada de **compilação** e as linguagens de programação que usam esse processo são chamadas de linguagens **compiladas**.
 
-Por fim, algumas linguages são pseudo-compiladas para que possam ser executadas em diferentes plataformas de hardware. É o caso da linguagem Java e das linguagens da família .NET(VB.NET, C#, etc) da Microsoft.
+Por fim, algumas linguagens são pseudo-compiladas para que possam ser executadas em diferentes plataformas de hardware. É o caso da linguagem Java e das linguagens da família .NET(VB.NET, C#, etc) da Microsoft.
 
 ## Aprenda a programar
 
-### Introdução a algorítimos
+### Introdução a algorítmos
 
 Exceto em casos muito simples, não se cria programas escrevendo o código-fonte diretamente. Primeiramente você vai precisar pensar nas instruções que você quer transmitir.
 
@@ -109,16 +109,16 @@ Início
             Adicionar mais pimenta e temperos
         Se os vegetais não estiverem cozidos o suficiente
             Continuar refogando os legumes
-    Aquecer a tortilla
-    Adicionar arroz à tortilla
-    Adicionar vegetais à tortilla
-    Enrolar tortilla
+    Aquecer a tortilha
+    Adicionar arroz à tortilha
+    Adicionar vegetais à tortilha
+    Enrolar tortilha
 Fim
 ```
 
 ![Mmmmmm!](images/intro02-02.jpg)
 
-Você conseguiu alcançar seu objetivo combinando uma série de ações numa ordem específica. Há diferenters tipos de ações:
+Você conseguiu alcançar seu objetivo combinando uma série de ações numa ordem específica. Há diferentes tipos de ações:
 
 * Ações simples ("pegar a panela de arroz")
 * Ações condicionais ("se os vegetais estiverem bons")
@@ -128,10 +128,10 @@ Nós usamos escrita simples, não uma linguagem de programação específica. Na
 
 ### O papel de uma pessoa programadora
 
-Escrever programas que podem executar tarefas esperadas com segurança é o objetivo da pessoa programadora. Um iniciante pode aprender a criar rapidamente programas simples. As coisas ficam mais complicadas quando o programa evolui e fica mais complexo. É preciso experiência e bastante prática até que você senta que controlará essa complexidade! Depois que você tiver a base, o único limite é sua imaginação!
+Escrever programas que podem executar tarefas esperadas com segurança é o objetivo da pessoa programadora. Um iniciante pode aprender a criar rapidamente programas simples. As coisas ficam mais complicadas quando o programa evolui e fica mais complexo. É preciso experiência e bastante prática até que você sinta que controlará essa complexidade! Depois que você tiver a base, o único limite é sua imaginação!
 
 !!! citação
-    “O programador de computador é um criador de universos dos quais só ele é o legislador. Nenhum roteirista, nenhum diretore, nenhum imperadore, por mais poderoso que seja, jamais exerceu tal autoridade absoluta para organizar um palco ou campo de batalha e para comandar atores ou tropas tão inabalavelmente zelosos.“ (Joseph Weizenbaum)
+    “O programador de computador é um criador de universos dos quais só ele é o legislador. Nenhum roteirista, nenhum diretor, nenhum imperador, por mais poderoso que seja, jamais exerceu tal autoridade absoluta para organizar um palco ou campo de batalha e para comandar atores ou tropas tão inabalavelmente zelosos.“ (Joseph Weizenbaum)
 
 ## TL;DR
 
@@ -141,4 +141,4 @@ Escrever programas que podem executar tarefas esperadas com segurança é o obje
 
 * A função do **programador** é criar programas. Para alcançar esse objetivo, ele pode utilizar diferentes linguagens de programação.
 
-* Antes de escrever códigos, Before writing code, é preciso pensar no futuro e decompor o problema a ser abordado em uma série de operações elementais formando um **algoritmo**.
+* Antes de escrever códigos, é preciso pensar no futuro e decompor o problema a ser abordado em uma série de operações elementares formando um **algoritmo**.
